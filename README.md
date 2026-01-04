@@ -1,4 +1,4 @@
-# Car Dealership Management System (part 1)
+# Car Dealership Management System
 
 This repository contains the conceptual data model (ER-model) for a car dealership retail system. 
 It includes vehicle inventory (VIN-tracking), sales contracts and service center logic.
